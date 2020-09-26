@@ -123,7 +123,7 @@ article img {
 /*changed the last div to semantic element footer, also added position: none to remove copyright to match example*/
 footer {
     padding: 30px;
-    clear: right;
+    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     display: none;
